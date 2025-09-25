@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 ## Education
 * Ph.D. in Mathematics (Expected May 2026)
   * University of North Texas, Denton, TX

@@ -26,7 +26,7 @@ My research interests include mathematical biosciences, machine learning for bio
 * Decomposing transmission pathways in co-epidemics like COVID-19 and influenza.
 * Developing novel threshold frameworks for multi-pathogen dynamics.
   
-* Future Goals:*
+** Future Goals:**
 * Mechanistic modeling of virus-bacteria co-infections.
 * Exploring vaccination strategies and antibiotic resistance in co-infection scenarios within high-risk settings.
 * Investigating the role of climate change in altering infectious disease transmission patterns.

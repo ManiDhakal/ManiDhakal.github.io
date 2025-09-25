@@ -8,15 +8,15 @@ Welcome! I am **Mani Dhakal**, a Ph.D. candidate in the [Department of Mathemati
 
 Further, I have also made myself familiar with skills like integrating genomic and epidemiological data to enhance outbreak analysis, and  use of *arcGIS Pro* to understanding the spatio-temporal dynamics of various infectious diseases.
 *Following are my core competencies:*
-* Infectious Disease Modeling:* Familiar with compartmental models (e.g., SEAIHR, SEIR) for studying single and multi-pathogen interactions, including co-infections such as COVID-19, influenza, and MRSA.
-* Data Integration:* Practical experience in combining genomic and epidemiological data using tools like outbreaker2 to analyze transmission dynamics.
-* Mathematical and Computational Modeling:* Engaged in the development and exploration of deterministic and stochastic models for disease transmission.
-* Programming & Statistical Tools:* Working knowledge of Python, R (including ggraph and outbreaker2), for computational tasks and visualizations.
+* *Infectious Disease Modeling:* Familiar with compartmental models (e.g., SEAIHR, SEIR) for studying single and multi-pathogen interactions, including co-infections such as COVID-19, influenza, and MRSA.
+* *Data Integration:* Practical experience in combining genomic and epidemiological data using tools like outbreaker2 to analyze transmission dynamics.
+* *Mathematical and Computational Modeling:* Engaged in the development and exploration of deterministic and stochastic models for disease transmission.
+* *Programming & Statistical Tools:* Working knowledge of Python, R (including ggraph and outbreaker2), for computational tasks and visualizations.
 
-*Professional Strengths:*
-Strong foundational skills in mathematical modeling and computational analysis.
-Practical experience collaborating with professors and peers on multidisciplinary research projects.
-Passionate about learning and applying new tools and methodologies to advance infectious disease research.
+** Professional Strengths:**
+* Strong foundational skills in mathematical modeling and computational analysis.
+* Practical experience collaborating with professors and peers on multidisciplinary research projects.
+* Passionate about learning and applying new tools and methodologies to advance infectious disease research.
 
 
 ## Research Interests

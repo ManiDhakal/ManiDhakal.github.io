@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mani Dhakal"
+title                    : "Mani Dhakal Test Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : Teaching Assistant at Department of Mathematics, University of North Texas, Denton TX   # Update this with a general description of your site, this is the default if not overridden by a page

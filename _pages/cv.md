@@ -24,3 +24,23 @@ redirect_from:
 * **High School Mathematics Teacher** (2011 – 2018)
   * Multiple institutions, Nepal
   * Duties: Taught mathematics to students in grades 8-12, designed assignments, and conducted discussion sessions.
+
+## Skills
+* **Programming:** Python, R, MATLAB
+* **Software:** LaTeX, Beamer, Canvas, Blackboard, WebAssign
+* **Languages:** English, Nepali, Hindi
+
+## Publications
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
+## Talks
+{% for post in site.talks reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
+## Teaching
+{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}

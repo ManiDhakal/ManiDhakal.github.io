@@ -10,10 +10,10 @@ Further, I have also made myself familiar with skills like integrating genomic a
 *Following are my core competencies:*
 * *Infectious Disease Modeling:* Familiar with compartmental models (e.g., SEAIHR, SEIR) for studying single and multi-pathogen interactions, including co-infections such as COVID-19, influenza, and MRSA.
 * *Data Integration:* Practical experience in combining genomic and epidemiological data using tools like outbreaker2 to analyze transmission dynamics.
-* *Mathematical and Computational Modeling:* Engaged in the development and exploration of deterministic and stochastic models for disease transmission.
-* *Programming & Statistical Tools:* Working knowledge of Python, R (including ggraph and outbreaker2), for computational tasks and visualizations.
+* **Mathematical and Computational Modeling:** Engaged in the development and exploration of deterministic and stochastic models for disease transmission.
+* **Programming & Statistical Tools:** Working knowledge of Python, R (including ggraph and outbreaker2), for computational tasks and visualizations.
 
-** Professional Strengths:**
+**Professional Strengths:**
 * Strong foundational skills in mathematical modeling and computational analysis.
 * Practical experience collaborating with professors and peers on multidisciplinary research projects.
 * Passionate about learning and applying new tools and methodologies to advance infectious disease research.

@@ -1,64 +1,17 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+## Education
+* Ph.D. in Mathematics (Expected May 2026)
+  * University of North Texas, Denton, TX
+  * Focus: Applied Mathematics, Epidemiological Modeling
+* M.Sc. in Mathematics, 2013
+  * Tribhuvan University, Nepal
+* B.Sc. in Mathematics, 2011
+  * Tribhuvan University, Nepal
 
-{% include base_path %}
+## Work Experience
+* **Graduate Teaching Assistant** (2018 – Present)
+  * University of North Texas (UNT)
+  * Duties: Served as Instructor of Record, Recitation Instructor, and Math Lab tutor. Responsibilities included delivering instruction, curriculum development, student advising, and grading for courses including Calculus, Precalculus, and Business Algebra.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **High School Mathematics Teacher** (2011 – 2018)
+  * Multiple institutions, Nepal
+  * Duties: Taught mathematics to students in grades 8-12, designed assignments, and conducted discussion sessions.

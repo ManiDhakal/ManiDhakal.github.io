@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/PXL_20250527_174302953.jpg"
   name             : "Mani Dhakal"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate, Teaching Assistant, <br>Department of Mathematics, <br>University of North Texas, <br>Denton, TX"

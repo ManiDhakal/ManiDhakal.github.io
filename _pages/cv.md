@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Education
-* Ph.D. in Mathematics (Expected May 2026)
+* Ph.D. in Mathematics (May 2026)
   * University of North Texas, Denton, TX
   * Focus: Applied Mathematics, Epidemiological Modeling
 * M.Sc. in Mathematics, 2013
@@ -17,7 +17,8 @@ redirect_from:
   * Tribhuvan University, Nepal
 
 ## Work Experience
-* **Graduate Teaching Assistant** (2018 – Present)
+* **Assistant Professor, Department of Mathematics, TLU** (Aug 2026 – Present)
+* **Graduate Teaching Assistant** (Aug 2018 – May 2026)
   * University of North Texas (UNT)
   * Duties: Served as Instructor of Record, Recitation Instructor, and Math Lab tutor. Responsibilities included delivering instruction, curriculum development, student advising, and grading for courses including Calculus, Precalculus, and Business Algebra.
 

@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Mani Dhakal"
 title_separator          : "-"
-name                     : &name "Mani Dhakal, PhD"
+name                     : &name "Mani Dhakal"
 description              : Assistant Professor – Department of Mathematics, Texas Lutheran University, Seguin TX   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ManiDhakal.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "ManiDhakal/ManiDhakal.github.io"
 author:
   # Biographic information
   avatar           : "PXL_20250527_174302953.jpg"
-  name             : "Mani Dhakal"
+  name             : "Mani Dhakal, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, <br>Department of Mathematics, <br>Texas Lutheran University, <br>Seguin, TX"
   location         : "Seguin, TX"

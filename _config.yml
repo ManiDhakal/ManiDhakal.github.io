@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Mani Dhakal"
 title_separator          : "-"
 name                     : &name "Mani Dhakal"
-description              : Teaching Assistant at Department of Mathematics, University of North Texas, Denton TX   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : Assistant Professor – Department of Mathematics, Texas Lutheran University, Seguin TX   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ManiDhakal.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "PXL_20250527_174302953.jpg"
   name             : "Mani Dhakal"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate, Teaching Assistant, <br>Department of Mathematics, <br>University of North Texas, <br>Denton, TX"
-  location         : "Denton, TX"
-  employer         : "University of North Texas"
+  bio              : "Assistant Professor, <br>Department of Mathematics, <br>Texas Lutheran University, <br>Seguin, TX"
+  location         : "Seguin, TX"
+  employer         : "Texas Lutheran University"
   uri              : # URL
-  email            : "ManiDhakal@my.unt.edu" 
+  email            : "MDhakal@tlu.edu" 
 
   # Academic websites
   academia         : # URL

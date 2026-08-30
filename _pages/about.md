@@ -36,7 +36,7 @@ My research interests include mathematical biosciences, machine learning for bio
 
 ## News
 * **August 2026**: Joined the faculty at Texas Lutheran University as a tenure-track Assistant Professor of Mathematics.
-* **May 2026**: Published our new research article " Infection history shapes Co-epidemic dynamics" in Microorganisms, https://doi.org/10.3390/microorganisms14061239
+* **May 2026**: Published our new research article "[Infection History Shapes Co-Epidemic Dynamics: A Transmission Source–Pathway Decomposition for COVID-19 and Influenza], https://doi.org/10.3390/microorganisms14061239," in *Microorganisms*.
 * **May 2026**: Graduated from UNT (PhD–Mathematics)
 * **March 2026**: Successfully defended my Ph.D. dissertation, "Mathematical Modeling of Multi-Pathogen Systems: The Impact of Infection History on Co-Epidemic Dynamics," at the University of North Texas.
 * **August 2025**: Our paper, "[Mechanistic Models of Virus–Bacteria Co-Infections in Humans: A Systematic Review of Methods and Assumptions](https://doi.org/10.3390/pathogens14080830)," was published in *Pathogens*.

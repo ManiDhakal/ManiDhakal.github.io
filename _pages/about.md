@@ -4,9 +4,9 @@ title: "Mani Dhakal | Homepage"
 author_profile: true
 ---
 
-Welcome! I am **Mani Dhakal**, a Ph.D. candidate in the [Department of Mathematics at the University of North Texas](https://math.unt.edu/) undet a supervision of [Dr. Rajeev K. Azad](https://scholars.unt.edu/en/persons/rajeev-azad). Currently, I am focusing on developing various mathematical models ranging from extension of *SIR* to advance agent base models. My developed models are particularly focused on co-infection dynamics in humans. I apply various mathematical and computational concepts in deciphering the intericate dynamics resulting from co-occurence of multiple viruses.
+Welcome! I am Mani Dhakal, an Assistant Professor in the Department of Mathematics at Texas Lutheran University in Seguin, TX. I earned my Ph.D. in Mathematics from the University of North Texas under the supervision of Dr. Rajeev K. Azad.
 
-Further, I have also made myself familiar with skills like integrating genomic and epidemiological data to enhance outbreak analysis, and  use of *arcGIS Pro* to understanding the spatio-temporal dynamics of various infectious diseases.
+My research focuses on mathematical biosciences, specifically developing compartmental ordinary differential equation (ODE) models and agent-based models to understand multi-pathogen co-infection and co-epidemic dynamics in human populations. I integrate mathematical techniques, computational tools, and epidemiological data to decipher the complex interactions resulting from co-occurring respiratory pathogens.
 Following are my core competencies:
 
 * **Infectious Disease Modeling:** Familiar with compartmental models (e.g., SEAIHR, SEIR) for studying single and multi-pathogen interactions, including co-infections such as COVID-19, influenza, and MRSA.
@@ -35,6 +35,10 @@ My research interests include mathematical biosciences, machine learning for bio
 
 
 ## News
+* **August 2026**: Joined the faculty at Texas Lutheran University as a tenure-track Assistant Professor of Mathematics.
+* **May 2026**: Published our new research article " Infection history shapes Co-epidemic dynamics" in Microorganisms, https://doi.org/10.3390/microorganisms14061239
+* **May 2026**: Graduated from UNT (PhD–Mathematics)
+* **March 2026**: Successfully defended my Ph.D. dissertation, "Mathematical Modeling of Multi-Pathogen Systems: The Impact of Infection History on Co-Epidemic Dynamics," at the University of North Texas.
 * **August 2025**: Our paper, "[Mechanistic Models of Virus–Bacteria Co-Infections in Humans: A Systematic Review of Methods and Assumptions](https://doi.org/10.3390/pathogens14080830)," was published in *Pathogens*.
 * **Spring 2025**: I presented my research on influenza and COVID-19 co-infection dynamics at the BDI & AERI Research Expo and the American Society for Microbiology TX Branch meeting.
 
